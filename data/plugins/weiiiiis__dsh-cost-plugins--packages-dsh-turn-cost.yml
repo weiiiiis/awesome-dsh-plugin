@@ -1,0 +1,6 @@
+url: https://github.com/weiiiiis/dsh-cost-plugins/tree/main/packages/dsh-turn-cost
+name: weiiiiis/dsh-cost-plugins#dsh-turn-cost
+category: usage
+description:
+  en: 'Per-answer cost in the message footer, priced from the usage the provider reports: cost split per step and attributed to the tools each step called, four token buckets priced separately with a turn crossing the peak boundary priced per step, a cache-hit warning that quantifies what the misses cost, session/today/7-day totals, a daily budget, a full-screen danmaku barrage above a cost threshold, and a day/session history panel with CSV export.'
+  zh: '每条回答页脚显示该轮花费，按提供方上报的用量计价：按步拆分并把花费归到每步调用的工具、四档 token 分别计价且跨高峰边界按步计价、命中率过低时写明这些未命中多花了多少、会话/今日/近 7 天合计、日预算、超过阈值时的全屏弹幕，以及可按天/按会话查看并导出 CSV 的历史面板。'
